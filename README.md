@@ -4,9 +4,10 @@
 
 Platform: Linux only.
 
-Execute: Download run.sh from the repository and run it with sudo.
+Execute: Download run.sh from the repository and run it.
 ```bash
-sudo sh run.sh
+apt update && apt install -y git cmake build-essential
+sh run.sh
 ```
 
 The generated dump will be saved at ~/Linux-CS2-Dumper/output/libclient_dump(x).cs.
