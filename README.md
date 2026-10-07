@@ -22,4 +22,4 @@ The dumper is currently in the pre-release and it dumping only main code from li
 
  [+] Generates clean C# dump with offsets.
 
-Telegram & Discord: @jeddy01759
+Telegram & Discord: @islavikfx
